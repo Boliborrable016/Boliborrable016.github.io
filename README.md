@@ -9,35 +9,29 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto (nombre)
+**Titulo** : Sombra Mortuoria 
 
 **Web:**   https://    (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Natalia Nieto García
 
-**Resumen** : lorem ipsun dolor.... 
+**Resumen**: Una trabajadora y un caso sospechoso sobre un cadáver
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
-
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Estilo/género:**  Juego de terror
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Google Chrome y MS Edge
 
 **Tamaño proyecto:** XXMB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : xx/xx/2024
+**Fecha**: 22/05/2024
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github:
-- Twitter
-- Instagram
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -87,7 +81,7 @@ Este  proyecto es interesante porque ...
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a gente interesada por los juegos narrativos de terror.
 
 
 
