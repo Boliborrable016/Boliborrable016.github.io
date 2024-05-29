@@ -15,12 +15,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Natalia Nieto García
 
-**Resumen**: Una trabajadora y un caso sospechoso sobre un cadáver
+**Resumen**: Una trabajador/a y un caso sospechoso sobre un cadáver
 
 **Estilo/género:**  Juego de terror
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
+**Resolución:** 800x600px responsivo/o tamaño fijo 
 **Probado en:**  Google Chrome y MS Edge
 
 **Tamaño proyecto:** XXMB 
@@ -31,7 +30,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios**:
 
-- Github:
+- Github
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
