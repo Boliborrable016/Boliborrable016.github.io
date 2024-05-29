@@ -11,7 +11,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Sombra Mortuoria 
 
-**Web:**   https://    (url github.io)
+**Web:**   https://boliborrable016.github.io/
 
 **Autor:**  Natalia Nieto García
 
@@ -20,6 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Estilo/género:**  Juego de terror
 
 **Resolución:** 800x600px responsivo/o tamaño fijo 
+
 **Probado en:**  Google Chrome y MS Edge
 
 **Tamaño proyecto:** XXMB 
@@ -33,15 +34,38 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+poner foto del juego.
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
+Como trabajador/a en tanatopractor en una morgue, te han llegado noticias de un descubrimiento 
+de un cadáver que ha sido encontrado en dudosas condiciones. Tu jefe te llama al momento para 
+que vayas lo más pronto posible a trabajar en ese caso. Tan normal como te fuiste de tu casa, entras a la
+sala de morgues para inspeccionar el cuerpo, hasta que empiezas a escuchar el sonido del
+telefonillo, pensando que es tu jefe, contestas, en efecto, es el explicándote de dónde han
+encontrado el cuerpo y qué accidente tuvo, hasta en un momento en el que que parece 
+advertirtete de algo, apenas puedes escuchar algo ya que la llamada empieza a perder señal. 
+A partir de ahora estarás totalmemte solo/a realizando tus tareas como trabajador/a
+la historia transcurre normal, haciendo las tareas que se te indican, por cada cosa que
+descubres del cuerpo, más raro te parecen las características que se presentan,
+quemaduras, manchas en forma de dibujos, extremidades retorcidas… Con el tiempo
+descubres que no estás solo, y no te estás refiriendo al cuerpo sin vida que hay a tu lado,
+hay otra persona, no presente en cuerpo y carne.
+Piensas que ves sombras, pero no le das mucha importancia, hasta que cada vez que
+descubres algo nuevo de ese cuerpo, ya sean nuevas características o incluso escenas en
+las que piensas que sigue vivo, esa presencia te atormenta de nuevo, mucho más que la
+anterior.
+El cuerpo está maldito, de eso estás seguro/a, a partir de ahora tendrás que sobrevivir la
+noche y descubrir qué es lo que esconde ese cuerpo sin vida.
+Encontrarás un objeto extraño dentro del muerto, dando por hecho que es el artilugio que
+hace que el cuerpo se comporte de esa forma, es casi de mañana y tú necesitas guardar al
+difunto y salir corriendo de ahí . Aquí comienza tu escapada, tendrás que luchar contra ese
+ente hasta salir por la puerta del tanatorio. Al final del juego habrás completado tu noche de
+trabajo y volverás a después de haber quemado el artilugio
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
