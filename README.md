@@ -73,7 +73,8 @@ trabajo y volverás a después de haber quemado el artilugio
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo) (Aún en desarrollo)
+https://app.diagrams.net/
 
 
 
