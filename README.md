@@ -58,7 +58,7 @@ descubres algo nuevo de ese cuerpo, ya sean nuevas características o incluso es
 las que piensas que sigue vivo, esa presencia te atormenta de nuevo, mucho más que la
 anterior.
 El cuerpo está maldito, de eso estás seguro/a, a partir de ahora tendrás que sobrevivir la
-noche y descubrir qué es lo que esconde ese cuerpo sin vida.
+noche y descubrir qué es lo que esconde esa masa de carne sin vida.
 Encontrarás un objeto extraño dentro del muerto, dando por hecho que es el artilugio que
 hace que el cuerpo se comporte de esa forma, es casi de mañana y tú necesitas guardar al
 difunto y salir corriendo de ahí . Aquí comienza tu escapada, tendrás que luchar contra ese
@@ -98,13 +98,15 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Un videojuego de terror sobre un trabajador/a que lidia con eventos paranormales puede ofrecer una experiencia intrigante y emocionante para los jugadores. La combinación de lo cotidiano con lo sobrenatural crea un contraste fascinante que mantiene a los jugadores en constante tensión y curiosidad. Además, la inmersión del personaje y su entorno permite a los jugadores sentirse más conectados con la historia y los desafíos que enfrenta el protagonista.
+El ambiente del juego puede utilizarse para generar una atmósfera inquietante y misteriosa, enriqueciendo la experiencia de juego. La exploración de lugares cotidianos transformados en escenarios de miedo por fenómenos paranormales añade emoción y suspenso. Además, los varios minijuegos qeu se presentarán, mantiene a los jugadores entretenidos, ofreciendo una experiencia única y emocionante.
 
 
 **Publico / audiencia**
 
 - Orientado a gente interesada por los juegos narrativos de terror.
+
+
 
 
 
