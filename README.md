@@ -40,30 +40,28 @@ poner foto del juego.
 
 ### 2.1 Storyboard: 
 
-Como trabajador/a en tanatopractor en una morgue, te han llegado noticias de un descubrimiento 
+Como trabajador/a en tanatopractor en una morgue, te han llegado noticias del un descubrimiento 
 de un cadáver que ha sido encontrado en dudosas condiciones. Tu jefe te llama al momento para 
-que vayas lo más pronto posible a trabajar en ese caso. Tan normal como te fuiste de tu casa, entras a la
-sala de morgues para inspeccionar el cuerpo, hasta que empiezas a escuchar el sonido del
-telefonillo, pensando que es tu jefe, contestas, en efecto, es el explicándote de dónde han
-encontrado el cuerpo y qué accidente tuvo, hasta en un momento en el que que parece 
-advertirtete de algo, apenas puedes escuchar algo ya que la llamada empieza a perder señal. 
-A partir de ahora estarás totalmemte solo/a realizando tus tareas como trabajador/a
+que vayas lo más pronto posible a trabajar en ese caso. Tan normal como te fuiste de tu casa, entras a la sala de morgues para inspeccionar el cuerpo, hasta que empiezas a escuchar el sonido del
+telefonillo, pensando que es tu jefe, contestas, en efecto es el explicándote de dónde han
+encontrado el cuerpo y qué accidente tuvo, hasta un momento en el que que parece 
+advertirtete de algo, apenas puedes escuchar la llamada, ya que esta empieza a perder señal. 
+A partir de ahora estarás totalmemte solo/a realizando tus tareas como trabajador/a,
 la historia transcurre normal, haciendo las tareas que se te indican, por cada cosa que
 descubres del cuerpo, más raro te parecen las características que se presentan,
-quemaduras, manchas en forma de dibujos, extremidades retorcidas… Con el tiempo
+quemaduras, manchas en forma de dibujos, extremidades retorcidas etc... Con el tiempo
 descubres que no estás solo, y no te estás refiriendo al cuerpo sin vida que hay a tu lado,
 hay otra persona, no presente en cuerpo y carne.
 Piensas que ves sombras, pero no le das mucha importancia, hasta que cada vez que
 descubres algo nuevo de ese cuerpo, ya sean nuevas características o incluso escenas en
-las que piensas que sigue vivo, esa presencia te atormenta de nuevo, mucho más que la
-anterior.
+las que piensas que sigue vivo, esa presencia te atormenta de nuevo, con mucha mas intensidad que la anterior.
 El cuerpo está maldito, de eso estás seguro/a, a partir de ahora tendrás que sobrevivir la
 noche y descubrir qué es lo que esconde esa masa de carne sin vida.
-Encontrarás un objeto extraño dentro del muerto, dando por hecho que es el artilugio que
+Encontrarás un objeto extraño dentro del muerto, dando por hecho que es un muñeco el que
 hace que el cuerpo se comporte de esa forma, es casi de mañana y tú necesitas guardar al
-difunto y salir corriendo de ahí . Aquí comienza tu escapada, tendrás que luchar contra ese
+difunto y salir corriendo de ahí . Aquí comienza tu huida, tendrás que luchar contra ese
 ente hasta salir por la puerta del tanatorio. Al final del juego habrás completado tu noche de
-trabajo y volverás a después de haber quemado el artilugio
+trabajo y volverás a después de haber decidido si quemar el muñeco o no.
 
 
 
@@ -99,8 +97,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Un videojuego de terror sobre un trabajador/a que lidia con eventos paranormales puede ofrecer una experiencia intrigante y emocionante para los jugadores. La combinación de lo cotidiano con lo sobrenatural crea un contraste fascinante que mantiene a los jugadores en constante tensión y curiosidad. Además, la inmersión del personaje y su entorno permite a los jugadores sentirse más conectados con la historia y los desafíos que enfrenta el protagonista.
-El ambiente del juego puede utilizarse para generar una atmósfera inquietante y misteriosa, enriqueciendo la experiencia de juego. La exploración de lugares cotidianos transformados en escenarios de miedo por fenómenos paranormales añade emoción y suspenso. Además, los varios minijuegos qeu se presentarán, mantiene a los jugadores entretenidos, ofreciendo una experiencia única y emocionante.
+Un videojuego de terror sobre un trabajador/a que lidia con eventos paranormales,este juego te ofrecerá una experiencia intrigante y emocionante para los jugadores. La combinación de lo cotidiano con lo sobrenatural crea un contraste fascinante que mantiene a los jugadores en constante tensión y los mantiene expectantes. Además, la inmersión del personaje y su entorno permite a los jugadores sentirse más conectados con la historia y los desafíos que enfrenta el protagonista.
+El ambiente del juego puede utilizarse para generar una atmósfera inquietante y misteriosa, enriqueciendo la experiencia de juego. La exploración de lugares cotidianos transformados en escenarios de terror por fenómenos paranormales añade emoción y suspense. Además, los varios minijuegos que se presentarán, mantiene a los jugadores entretenidos, ofreciendo una experiencia única y emocionante.
 
 
 **Publico / audiencia**
@@ -128,14 +126,14 @@ El ambiente del juego puede utilizarse para generar una atmósfera inquietante y
 ### Etapa 3: Problemas identificados
 
 (que consideras que no  funciona correctamente y por qué )
-
+Algunos escenas podrían dejar de segir pasando de texto, incapacitando la continuación de la historia, esto puede ser causado por el propio programa a la hora de exportar. 
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-
+Al ser mi primer proyecto con este programa, la historia y mecánica del juego son bastantes sencillas, tuve unos cuantos porblemas a la hora de crear los minijuegos, pero creo que han sido lo suficientemente trabajados para que no den ningun problema a la hora de jugarlos. 
 
 
 
