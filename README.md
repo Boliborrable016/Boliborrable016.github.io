@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Resolución:** 800x600px responsivo/o tamaño fijo 
 
-**Probado en:**  Google Chrome y MS Edge
+**Probado en:**  Google Chrome y MS Edge.
 
 **Tamaño proyecto:** XXMB 
 
@@ -90,7 +90,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 "Sombra Mortuoria" es un juego de terror que emplea una mecánica de "point and click" donde el jugador tiene que experimentar cómo un tanatopractor tiene que enfrentarse a eventos paranormales mientras intenta hacerse cargo de un cuerpo que acaba de llegar al tanatorio.
-Este juego es una propuesta interesante, porque no solo nos ofrece una historia intrigante, llena de momentos donde la tensión puede que se apodere del jugador, sino también porque su estética y jugabilidad resultan bastante amenas e interesantes. 
+Este juego es una propuesta interesante, porque no solo nos ofrece una historia intrigante, llena de momentos donde la tensión puede que se apodere del jugador, sino también porque su estética y jugabilidad resultan bastante llevaderas e interesantes. 
 A nivel estético, este juego mezcla escenarios cotidianos con elementos paranormales, dotando al ambiente de un tono de incomodidad y tensión que lo hace aún más atrayente. 
 En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietante y misteriosa, además de ofrecer al jugador una experiencia de juego atractiva y sumamente interactiva a través de la navegación por varios escenarios terroríficos, al igual que también por los varios minijuegos que presenta.
 
@@ -111,9 +111,10 @@ En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietant
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
+- El proceso de creación del juego fue bstante lineal. Siempre tuve mis ideas claras y lo que iba a desarrollar. La hirtoria siempre fue la misma desde el primer momento que la creé y no cambió nada durante el desarrollo del videojuego, tampoco me podía permitir cambiar mucho su curso. Con respecto a los minijuegos, estos no los veia tan claros, tenia que combinar la historia con alguna mecánica interesante, para uqe así no se hiciese tan aburrido a la hora de jugar. La idea de estos tres minijuegos se basó en algunas de las mecánicas que habían sido empleadas en otros trabajos de antiguos compañeros, exceptuando el de completar la imagen. Este minijuego fue creado a partir de mi propia imaginación ya que complementaba muy bien al desarrollo narrativo.
+  Para hacer el juego más interactivo (más o menos, ya que los jugadores de móviles no podrán jugarlo) empleé la tecla de espacio para pasar de diálogos, una función mucho más compleja que el uso del botón. 
 - En cuanto al vídeo, no he tenido problemas para incorporarlo, sin embargo, al ser tan largo, he tenido que hacer que el usuario lo tenga que pasar manualmente para avanzar a la escena siguiente, pues de otra forma no se reproducía el vídeo completo.
-- Considero que los controles de mi videojuego son bastante sencillos, aunque sí que hay algunas mecánicas que he tenido que aclarar anted de nada, por lo cual le he dedicado una parte del juego a explicar cómo funcionan.
+- Considero que los controles de mi videojuego son bastante sencillos, aunque sí que hay algunas mecánicas que he tenido que aclarar antes de nada, por lo cual le he dedicado una parte del juego a explicar cómo funcionan.
 - Considero que el juego tiene una movilidad entre escenas bastante buena, cuenta con un menú accesible en todo momento que te permite acceder a cualquier capítulo de la historia, además, los botones que te permiten navegar por el mapa son bastante intuitivos. De hecho, cuando implemento una nueva mecánica, la explico al momento.
 
 
@@ -121,13 +122,13 @@ En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietant
 ### Etapa 3: Problemas identificados
 
 
-Algunas escenas presentan el problema de que dejan de pasar el texto, lo que hace que sea imposible continuar la historia. Debido a que no he podido identificar ningún fallo que pueda ser la fuente de tal error, seguramente se trate de un fallo del propio programa al exportar el juego.
+Una escena en concreto, el completar la imagen, cuando hayas resuelto el puzzle, habrá momentos en los que no pase de escena. Para arreglar esto, solo tendrás que pulsar unas cuantas veces a la imagen para así continuar con la siguiente escena.
 
 
 # 4. Conclusiones 
 
 
-Al ser mi primer proyecto con este programa, la historia y la mecánica del juego son bastantes sencillas, tuve muchas complicaciones a la hora de desarrollar ciertos minijuegos o escena, pero  
+Al ser mi primer proyecto con este programa, la historia y la mecánica del juego a mi propia opinión son bastante sencillas, tuve muchas complicaciones a la hora de desarrollar ciertos minijuegos o escenas, pero creo que han llegado a trabajarse lo suficientemente bien para que todo funcione correctamente. Con este proyecto he podido llegar a ver que puedo tener la capacidad para crear este tipo de contenido. No siento que haya hecho el próximo Elden Ring, pero algo es algo, y eso es lo que importa. También cabe destacar que el programa ha limitado muchisímas interacciones qeu me gustaría haber añadido o mejorado, ya que como se puede ver a simple vista es una aplicación bastante sencilla. En conclusión, he tenido sentimientos encontrados con este proyecto, he visto lo mucho que he llegado a frustrarme o inlcuso enfadarme con el propio programa, pero si algo tengo que decir es que, ver que todo ha llegado a funcionar ha causado en mi una gran satisfacción a pesar de todo el sufrimiento previo, llegué aquí sin saber nada de cómo programar y he salido con un proyecto del que me siento orgullosa. 
 
 
 
@@ -140,7 +141,7 @@ Al ser mi primer proyecto con este programa, la historia y la mecánica del jueg
 
 * Musica:  Pixabay, varios artistas.
 * Imágenes: De muchos autores, editadas por mi.
-* Tipografía
+* Tipografía: "Sangoku4" de Caveras, Dafont, "Pixel Azure Bonds" de Pixel Sagas, Dafont y "Double Homicide" de jeti, Dafont.
 
 **Herramientas utilizadas**
 
