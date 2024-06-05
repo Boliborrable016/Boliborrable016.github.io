@@ -8,16 +8,15 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 1 Datos 
 
 
-
 **Titulo** : Sombra Mortuoria 
 
-**Web:**   https://boliborrable016.github.io/
+**Web:**   https://boliborrable016.github.io
 
 **Autor:**  Natalia Nieto García
 
-**Resumen**: Una trabajador/a y un caso sospechoso sobre un cadáver
+**Resumen**: Un trabajador de la morgue tiene que enfrentarse a un caso que se le va de las manos. Mientras intenta ocuparse de un cadáver, sufre varios eventos paranormales que hacen de la tarea de sobrevivir a la jornada laboral una casi imposible.
 
-**Estilo/género:**  Juego de terror
+**Estilo/género:**  Juego de terror.
 
 **Resolución:** 800x600px responsivo/o tamaño fijo 
 
@@ -40,29 +39,16 @@ poner foto del juego.
 
 ### 2.1 Storyboard: 
 
-Como trabajador/a en tanatopractor en una morgue, te han llegado noticias del un descubrimiento 
-de un cadáver que ha sido encontrado en dudosas condiciones. Tu jefe te llama al momento para 
-que vayas lo más pronto posible a trabajar en ese caso. Tan normal como te fuiste de tu casa, entras a la sala de morgues para inspeccionar el cuerpo, hasta que empiezas a escuchar el sonido del
-telefonillo, pensando que es tu jefe, contestas, en efecto es el explicándote de dónde han
-encontrado el cuerpo y qué accidente tuvo, hasta un momento en el que que parece 
-advertirtete de algo, apenas puedes escuchar la llamada, ya que esta empieza a perder señal. 
-A partir de ahora estarás totalmemte solo/a realizando tus tareas como trabajador/a,
-la historia transcurre normal, haciendo las tareas que se te indican, por cada cosa que
-descubres del cuerpo, más raro te parecen las características que se presentan,
-quemaduras, manchas en forma de dibujos, extremidades retorcidas etc... Con el tiempo
-descubres que no estás solo, y no te estás refiriendo al cuerpo sin vida que hay a tu lado,
-hay otra persona, no presente en cuerpo y carne.
-Piensas que ves sombras, pero no le das mucha importancia, hasta que cada vez que
-descubres algo nuevo de ese cuerpo, ya sean nuevas características o incluso escenas en
-las que piensas que sigue vivo, esa presencia te atormenta de nuevo, con mucha mas intensidad que la anterior.
-El cuerpo está maldito, de eso estás seguro/a, a partir de ahora tendrás que sobrevivir la
-noche y descubrir qué es lo que esconde esa masa de carne sin vida.
-Encontrarás un objeto extraño dentro del muerto, dando por hecho que es un muñeco el que
-hace que el cuerpo se comporte de esa forma, es casi de mañana y tú necesitas guardar al
-difunto y salir corriendo de ahí . Aquí comienza tu huida, tendrás que luchar contra ese
-ente hasta salir por la puerta del tanatorio. Al final del juego habrás completado tu noche de
-trabajo y volverás a después de haber decidido si quemar el muñeco o no.
-
+- Como tanatopractor/a en una morgue, te han llegado noticias del descubrimiento de un cadáver. Este ha sido encontrado en condiciones extrañas. Tu jefe te llama para que vayas lo más pronto posible a trabajar en el caso. 
+- Tan normal como te fuiste de tu casa, entras a la sala de la morgue para inspeccionar el cuerpo, hasta que empiezas a escuchar el sonido del
+teléfono. Pensando que es tu jefe, contestas. En efecto, resulta ser él. Durante la llamada, te explica dónde encontraron el cuerpo, al igual que el accidente que causó su muerte.
+- En un punto de la llamada, parece que quiere advertirte de algo, sin embargo, la llamada empieza a perder señal, por lo que se corta. 
+- A partir de ahora estás totalmemte solo/a mientras haces tu trabajo. La noche parece que transcurre de forma normal, y vas realizando las tareas que se te indican. Pero a medida que vas descubriendo más cosas del cuerpo, más raras te parecen las condiciones en las que está. Quemaduras, manchas en forma de dibujos, extremidades retorcidas... 
+- Con el tiempo, descubres que no estás solo/a, y no es por el cuerpo sin vida que hay a tu lado, sino porque hay otra persona, aunque no está presente en cuerpo y carne. Piensas que ves sombras, pero no le das mucha importancia. Hasta que llegas a un punto de la noche en el que, cada vez que descubres más información, empiezas a sufrir alucinaciones donde llegas hasta a pensar que el cuerpo sigue con vida. 
+Tras cada uno de estos momentos que hacen que te cuestiones tu cordura, la presencia que habías sentido momentos antes te atormenta de nuevo, cada vez con más intensidad. El cuerpo está maldito, de eso estás seguro/a. A partir de ahora tienes que sobrevivir la noche y descubrir qué es lo que esconde esa masa de carne sin vida.
+- Encuentras un objeto extraño dentro del cadáver, un muñeco, y das por hecho que es esto lo que hace que el cuerpo se comporte de esa forma. Ya es casi por la mañana y necesitas guardar al difunto y salir corriendo de ahí. Es aquí donde tienes que decidir si quemas el muñeco o no.
+- Tras esto comienza tu huida, tienes que luchar contra el ente que te ha estado atormentando toda la noche hasta poder salir por la puerta del tanatorio. 
+- Al final del juego has completado tu noche de trabajo y ves qué es lo que pasa a continuación dependiendo de si has decidido quemar el muñero o te lo has llevado contigo.
 
 
 
@@ -88,24 +74,26 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/ The Mortuary Assistant.
+- https://store.steampowered.com/app/1843090/Chillas_Art_The_Closing_Shift/ The Closing Shift.
+- https://store.steampowered.com/app/1670870/MADiSON/ MADiSON.
 
 
 
 **Motivación de la propuesta** 
+"Sombra Mortuoria" es un juego de terror que emplea una mecánica de "point and click" donde el jugador tiene que experimentar cómo un tanatopractor tiene que enfrentarse a eventos paranormales mientras intenta hacerse cargo de un cuerpo que acaba de llegar al tanatorio.
+Este juego es una propuesta interesante, porque no solo nos ofrece una historia intrigante, llena de momentos donde la tensión puede que se apodere del jugador, sino también porque su estética y jugabilidad resultan bastante amenas e interesantes. 
+A nivel estético, este juego mezcla escenarios cotidianos con elementos paranormales, dotando al ambiente de un tono de incomodidad y tensión que lo hace aún más atrayente. 
+En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietante y misteriosa, además de ofrecer al jugador una experiencia de juego atractiva y sumamente interactiva a través de la navegación por varios escenarios terroríficos, al igual que también por los varios minijuegos que presenta.
 
-Un videojuego de terror sobre un trabajador/a que lidia con eventos paranormales,este juego te ofrecerá una experiencia intrigante y emocionante para los jugadores. La combinación de lo cotidiano con lo sobrenatural crea un contraste fascinante que mantiene a los jugadores en constante tensión y los mantiene expectantes. Además, la inmersión del personaje y su entorno permite a los jugadores sentirse más conectados con la historia y los desafíos que enfrenta el protagonista.
-El ambiente del juego puede utilizarse para generar una atmósfera inquietante y misteriosa, enriqueciendo la experiencia de juego. La exploración de lugares cotidianos transformados en escenarios de terror por fenómenos paranormales añade emoción y suspense. Además, los varios minijuegos que se presentarán, mantiene a los jugadores entretenidos, ofreciendo una experiencia única y emocionante.
+
 
 
 **Publico / audiencia**
 
 - Orientado a gente interesada por los juegos narrativos de terror.
-
-
 
 
 
@@ -125,15 +113,13 @@ El ambiente del juego puede utilizarse para generar una atmósfera inquietante y
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-Algunos escenas podrían dejar de segir pasando de texto, incapacitando la continuación de la historia, esto puede ser causado por el propio programa a la hora de exportar. 
+Algunas escenas presental el problema de que dejan de pasar el texto, lo que hace que sea imposible continuar la historia. Debido a que no he podido identificar ningún fallo que pueda ser la fuente de tal error, seguramente se trate de un fallo del propio programa al exportar el juego.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-Al ser mi primer proyecto con este programa, la historia y mecánica del juego son bastantes sencillas, tuve unos cuantos porblemas a la hora de crear los minijuegos, pero creo que han sido lo suficientemente trabajados para que no den ningun problema a la hora de jugarlos. 
+Al ser mi primer proyecto con este programa, la historia y la mecánica del juego son bastantes sencillas, tuve unos cuantos porblemas a la hora de crear los minijuegos, pero creo que han sido lo suficientemente trabajados para que no den ningun problema a la hora de jugarlos. 
 
 
 
@@ -147,14 +133,14 @@ Al ser mi primer proyecto con este programa, la historia y mecánica del juego s
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica:  Pixabay, varios artistas.
 * Imágenes:  
 * Tipografía
 
 **Herramientas utilizadas**
 
-- Hippani Animator 5.1
-- 
+- Hippani Animator 5.1.
+- Ibis Paint.
 
 
 
