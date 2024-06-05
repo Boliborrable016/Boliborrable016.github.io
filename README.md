@@ -37,7 +37,9 @@ poner foto del juego.
 
 # 2. Memoria del proyecto 
 
+
 ### 2.1 Storyboard: 
+
 
 - Como tanatopractor/a en una morgue, te han llegado noticias del descubrimiento de un cadáver. Este ha sido encontrado en condiciones extrañas. Tu jefe te llama para que vayas lo más pronto posible a trabajar en el caso. 
 - Tan normal como te fuiste de tu casa, entras a la sala de la morgue para inspeccionar el cuerpo, hasta que empiezas a escuchar el sonido del
@@ -56,7 +58,6 @@ Tras cada uno de estos momentos que hacen que te cuestiones tu cordura, la prese
 ### 2.2. Esquema de navegación 
 
 
-
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo) (Aún en desarrollo)
 https://app.diagrams.net/
 
@@ -68,13 +69,16 @@ https://app.diagrams.net/
 
 # 3. Metodología
 
+
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ### Etapa 1: Ideación de proyecto
 
+
 **Investigación de campo** 
+
 
 - https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/ The Mortuary Assistant.
 - https://store.steampowered.com/app/1843090/Chillas_Art_The_Closing_Shift/ The Closing Shift.
@@ -83,6 +87,8 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 **Motivación de la propuesta** 
+
+
 "Sombra Mortuoria" es un juego de terror que emplea una mecánica de "point and click" donde el jugador tiene que experimentar cómo un tanatopractor tiene que enfrentarse a eventos paranormales mientras intenta hacerse cargo de un cuerpo que acaba de llegar al tanatorio.
 Este juego es una propuesta interesante, porque no solo nos ofrece una historia intrigante, llena de momentos donde la tensión puede que se apodere del jugador, sino también porque su estética y jugabilidad resultan bastante amenas e interesantes. 
 A nivel estético, este juego mezcla escenarios cotidianos con elementos paranormales, dotando al ambiente de un tono de incomodidad y tensión que lo hace aún más atrayente. 
@@ -93,6 +99,7 @@ En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietant
 
 **Publico / audiencia**
 
+
 - Orientado a gente interesada por los juegos narrativos de terror.
 
 
@@ -101,19 +108,20 @@ En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietant
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
+
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
 - Video 
-- Instrucciones y ayuda al usuario 
+- Considero que los controles de mi videojuego son bastante sencillos, aunque sí que hay algunas mecánicas que he tenido que explicar, por lo cual le he dedicado una parte completa del juego a explicar cómo funcionan.
 - Menús y elementos de navegación (botones)
-- etc.
 
 
 
 ### Etapa 3: Problemas identificados
 
-Algunas escenas presental el problema de que dejan de pasar el texto, lo que hace que sea imposible continuar la historia. Debido a que no he podido identificar ningún fallo que pueda ser la fuente de tal error, seguramente se trate de un fallo del propio programa al exportar el juego.
+
+Algunas escenas presentan el problema de que dejan de pasar el texto, lo que hace que sea imposible continuar la historia. Debido a que no he podido identificar ningún fallo que pueda ser la fuente de tal error, seguramente se trate de un fallo del propio programa al exportar el juego.
 
 
 # 4. Conclusiones 
