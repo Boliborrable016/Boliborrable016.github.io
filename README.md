@@ -151,7 +151,9 @@ Al ser mi primer proyecto con este programa, la historia y la mecánica del jueg
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+
+![conejo](https://github.com/Boliborrable016/Boliborrable016.github.io/blob/main/26%20sin%20ti%CC%81tulo_20240505204931.png)
+
 
 https://creativecommons.org/licenses/?lang=es
 
