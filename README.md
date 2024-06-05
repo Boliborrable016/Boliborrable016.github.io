@@ -52,7 +52,7 @@ teléfono. Pensando que es tu jefe, contestas. En efecto, resulta ser él. Duran
 Tras cada uno de estos momentos que hacen que te cuestiones tu cordura, la presencia que habías sentido momentos antes te atormenta de nuevo, cada vez con más intensidad. El cuerpo está maldito, de eso estás seguro/a. A partir de ahora tienes que sobrevivir la noche y descubrir qué es lo que esconde esa masa de carne sin vida.
 - Encuentras un objeto extraño dentro del cadáver, un muñeco, y das por hecho que es esto lo que hace que el cuerpo se comporte de esa forma. Ya es casi por la mañana y necesitas guardar al difunto y salir corriendo de ahí. Es aquí donde tienes que decidir si quemas el muñeco o no.
 - Tras esto comienza tu huida, tienes que luchar contra el ente que te ha estado atormentando toda la noche hasta poder salir por la puerta del tanatorio. 
-- Al final del juego has completado tu noche de trabajo y ves qué es lo que pasa a continuación dependiendo de si has decidido quemar el muñero o te lo has llevado contigo.
+- Al final del juego has completado tu noche de trabajo y ves qué es lo que pasa a continuación dependiendo de si has decidido quemar el muñeco o te lo has llevado contigo.
 
 
 
