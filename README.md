@@ -31,6 +31,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios**:
 
 - Github
+
+  
 ![foto](https://github.com/Boliborrable016/Boliborrable016.github.io/blob/main/export/Sombra%20MOrtuaria%20(1)_Media/19%20sin%20t%C3%ADtulo_20240321111409%20(1).png)
 
 
