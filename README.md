@@ -60,10 +60,8 @@ Tras cada uno de estos momentos que hacen que te cuestiones tu cordura, la prese
 ### 2.2. Esquema de navegación 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo) (Aún en desarrollo)
-https://app.diagrams.net/
 
-![foto](https://github.com/Boliborrable016/Boliborrable016.github.io/blob/main/export/Sombra%20MOrtuaria%20(1)_Media/19%20sin%20t%C3%ADtulo_20240321111409%20(1).png)
+![foto](https://github.com/Boliborrable016/Boliborrable016.github.io/blob/main/diagrama%20sombra%20mortuoria.jpg)
 
 
 
