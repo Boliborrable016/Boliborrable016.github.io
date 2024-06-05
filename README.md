@@ -63,7 +63,7 @@ Tras cada uno de estos momentos que hacen que te cuestiones tu cordura, la prese
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo) (Aún en desarrollo)
 https://app.diagrams.net/
 
-
+![foto](https://github.com/Boliborrable016/Boliborrable016.github.io/blob/main/export/Sombra%20MOrtuaria%20(1)_Media/19%20sin%20t%C3%ADtulo_20240321111409%20(1).png)
 
 
 
@@ -114,9 +114,9 @@ En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietant
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego. 
-- Video 
-- Considero que los controles de mi videojuego son bastante sencillos, aunque sí que hay algunas mecánicas que he tenido que explicar, por lo cual le he dedicado una parte completa del juego a explicar cómo funcionan.
-- Menús y elementos de navegación (botones)
+- En cuanto al vídeo, no he tenido problemas para incorporarlo, sin embargo, al ser tan largo, he tenido que hacer que el usuario lo tenga que pasar manualmente para avanzar a la escena siguiente, pues de otra forma no se reproducía el vídeo completo.
+- Considero que los controles de mi videojuego son bastante sencillos, aunque sí que hay algunas mecánicas que he tenido que aclarar anted de nada, por lo cual le he dedicado una parte del juego a explicar cómo funcionan.
+- Considero que el juego tiene una movilidad entre escenas bastante buena, cuenta con un menú accesible en todo momento que te permite acceder a cualquier capítulo de la historia, además, los botones que te permiten navegar por el mapa son bastante intuitivos. De hecho, cuando implemento una nueva mecánica, la explico al momento.
 
 
 
@@ -129,7 +129,7 @@ Algunas escenas presentan el problema de que dejan de pasar el texto, lo que hac
 # 4. Conclusiones 
 
 
-Al ser mi primer proyecto con este programa, la historia y la mecánica del juego son bastantes sencillas, tuve unos cuantos porblemas a la hora de crear los minijuegos, pero creo que han sido lo suficientemente trabajados para que no den ningun problema a la hora de jugarlos. 
+Al ser mi primer proyecto con este programa, la historia y la mecánica del juego son bastantes sencillas, tuve muchas complicaciones a la hora de desarrollar ciertos minijuegos o escena, pero  
 
 
 
@@ -137,20 +137,18 @@ Al ser mi primer proyecto con este programa, la historia y la mecánica del jueg
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
 * Musica:  Pixabay, varios artistas.
-* Imágenes:  
+* Imágenes: De muchos autores, editadas por mi.
 * Tipografía
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1.
 - Ibis Paint.
+- Capcut.
 
 
 
@@ -158,4 +156,4 @@ Al ser mi primer proyecto con este programa, la historia y la mecánica del jueg
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2024
+Junio 2024
