@@ -119,10 +119,13 @@ En general, Sombra Mortuoria destaca sobre todo por su ambientación, inquietant
 
 
 
+
 ### Etapa 3: Problemas identificados
 
 
-Una escena en concreto, el completar la imagen, cuando hayas resuelto el puzzle, habrá momentos en los que no pase de escena. Para arreglar esto, solo tendrás que pulsar unas cuantas veces a la imagen para así continuar con la siguiente escena.
+- Una escena en concreto, el completar la imagen, cuando hayas resuelto el puzzle, habrá momentos en los que no pase de escena. Para arreglar esto, solo tendrás que pulsar unas cuantas veces a la imagen para así continuar con la siguiente escena.
+- Por mucho que haya intentado indagar en solucionar este problema, algunos de los minijuegos no se resetean, así que para poder jugarlos de nuevo, habrá que abrir de nuevo el archivo html.
+
 
 
 # 4. Conclusiones 
